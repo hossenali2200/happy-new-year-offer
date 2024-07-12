@@ -1,0 +1,95 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.hero{
+    width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 30px;
+    background-image: url('./images/Banner\ Image.png');
+     
+     
+}
+
+.hero-content{
+     
+    width: 632px;
+    height: 240px;
+    
+    margin: 0px auto;
+    padding: 200px;
+}
+
+.hero-content h2{
+    font-size: 24px;
+    color: white;
+}
+.hero-content h1{
+    font-size: 32px;
+    color: rgb(240, 122, 11);
+}
+
+.offer{
+    width: 800px;
+    height: 806px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.offer h1{
+    font-weight: bold;
+    font-size: 70px;
+    color: red;
+}
+.offer h3{
+    font-weight: 400;
+    font-size: 16px;
+    color: red;
+    margin-top: 20px;
+}
+
+.offer h2{
+    font-weight: bold;
+    font-size: 32px;
+    margin-bottom: 35px;
+     
+}
+
+.party{
+    width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+    display: flex;
+    background-image: url('./images/Vectorrr.png');
+}
+
+.party-content{
+    align-items: center;
+    margin: 150px;
+    color: white;
+}
+
+.party-content h1{
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: 25px;
+}
+
+.party-content h3{
+    font-size: 14px;
+    margin-bottom: 25px;
+
+}
+
+.party-content a{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
