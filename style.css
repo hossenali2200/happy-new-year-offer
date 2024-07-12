@@ -123,3 +123,30 @@ span{
     border: none;
 }
 
+.best{
+    display: flex;
+    width: 1320px;
+    height: 460px;
+    margin: 0 auto;
+    margin-top: 60px;
+    padding: 40px;
+}
+
+.best div{
+    width: 450px;
+     
+}
+
+ .best-content{
+    margin-top: 60px;
+ }
+
+.best1{
+    border: 10px solid red ;
+    border-radius: 100%;
+    padding: 8px;
+    width: 250px;
+}
+
+ 
+
