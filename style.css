@@ -65,6 +65,7 @@
     margin: 0 auto;
     display: flex;
     background-image: url('./images/Vectorrr.png');
+    margin-bottom: 50px;
 }
 
 .party-content{
@@ -107,6 +108,8 @@
     padding: 80px;
     text-align: center;
     background-color: rgb(253, 232, 199);
+    border-radius: 6px;
+    margin-bottom: 50px;
     
 }
 span{
@@ -129,7 +132,8 @@ span{
     height: 460px;
     margin: 0 auto;
     margin-top: 60px;
-    padding: 40px;
+    padding: 80px 200px;
+
 }
 
 .best div{
@@ -152,6 +156,7 @@ span{
     width: 1020px;
     height: 260px;
     margin: 0 auto;
+   
      
 }
 
@@ -179,7 +184,44 @@ span{
     background-image: url("./images/Rectangle\ 2.png");
     background-repeat: no-repeat;
     background-position: bottom;
+    margin-bottom: 50px;
+    
+    
      
 }
+
+ .gift{
+     
+    width: 1320px;
+    height: 1060px;
+    margin: 0 auto;
+    padding: 20px;
+ }
+
+ .gift h3{
+    color: red;
+    font-weight: 400px;
+    font-size: 16px;
+    margin-bottom: 4px;
+ }
+ 
+ .gift h2{
+     
+    font-weight: 600px;
+    font-size: 30px;
+    margin-bottom: 8px;
+ }
+ .gift p{
+     
+     
+    margin-bottom: 35px;
+ }
+
+ .photo-1{
+    margin-bottom: 20px;
+ }
+ 
+
+ 
  
 
