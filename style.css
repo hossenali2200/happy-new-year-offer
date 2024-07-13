@@ -225,7 +225,7 @@ span{
     width: 1320px;
     height: 460px;
     margin: 0 auto;
-    background-color: #eed9bb;
+    background-color: #ffe0c7;
     text-align: center;
     padding: 40px;
     border-radius: 20px;
@@ -255,6 +255,47 @@ span{
     color: white;
     border-radius:  20px;
     border: none;
+ }
+
+ .footer{
+    background-color: black;
+    color: white;
+    width: 1320px;
+    height: 460px;
+    margin: 0 auto;
+    padding: 80px;
+ }
+
+ .footer-1{
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .pass-1{
+    display: flex;
+    gap: 14px;
+ }
+ .pass-2{
+    display: flex;
+    gap: 14px;
+ }
+
+ hr{
+    color: rgb(41, 42, 44);
+    margin: 30px 0;
+ }
+
+ .icon{
+    text-align: center;
+ }
+
+ .icon img{
+    margin: 6px;
+ }
+
+ .last{
+    display: flex;
+    justify-content: space-between;
  }
 
  
