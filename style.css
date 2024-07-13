@@ -220,7 +220,42 @@ span{
  .photo-1{
     margin-bottom: 20px;
  }
+
+ .contact{
+    width: 1320px;
+    height: 460px;
+    margin: 0 auto;
+    background-color: #eed9bb;
+    text-align: center;
+    padding: 40px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+ }
  
+ .contact h2{
+    font-weight: 600;
+    font-size: 30px;
+    margin: 20px;
+ }
+ .contact p{
+     
+    margin: 20px;
+ }
+
+ .contact input{
+    padding: 8px;
+    width: 300px;
+    border-radius:  20px;
+    border: none;
+ }
+
+ .contact button{
+    padding: 8px;
+    background-color: red;
+    color: white;
+    border-radius:  20px;
+    border: none;
+ }
 
  
  
